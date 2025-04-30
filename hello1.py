@@ -1,3 +1,3 @@
-print("hello world")
+print("hello world !!")
 
-print(" this is the practical")
+print("this is the first practical")
